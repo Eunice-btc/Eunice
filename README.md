@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Eunice-btc
+- 👋 Hi, I’m @Eunice
 - 👀 I’m interested in GitHub
 - 🌱 I’m currently learning Blockchain 
 - 💞️ I’m looking to collaborate with tech minded people
